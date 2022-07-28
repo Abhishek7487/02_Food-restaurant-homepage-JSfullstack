@@ -16,4 +16,4 @@
   - learned in depth about background positioning.✅
   
 ## Time taken to complete this project:-
-⏰- 2 hours
+⏰- 2hrs
