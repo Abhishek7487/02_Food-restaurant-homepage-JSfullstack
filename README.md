@@ -11,7 +11,7 @@
 ## Project 2 --- Live-Link
 
 - Skills gained in this project
-  - learned how to use linear-gradient property.✅
+  - learned how to use `linear-gradient` property.✅
   - Deep understanding of paddings & margins ✅
   - learned in depth about background positioning.✅
   
