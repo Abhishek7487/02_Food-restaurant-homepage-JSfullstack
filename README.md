@@ -8,7 +8,7 @@
 
 ![Abhishek](https://img.shields.io/badge/Abhsiehk%20Patil-BCA%202%20year-orange)
 
-## Project 2 --- Live-Link
+## Project 2 --- [Live-link](https://jsfullstack-project-2.netlify.app/)
 
 - Skills gained in this project
   - learned how to use `linear-gradient` property.✅
